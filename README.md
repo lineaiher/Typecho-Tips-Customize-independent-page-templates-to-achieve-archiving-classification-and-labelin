@@ -1,4 +1,4 @@
-# Typecho-Tips-Customize-independent-page-templates-to-achieve-archiving-classification-and-labelin
+# Typecho-Tips-Customize-independent-page-templates-to-achieve-archiving-classification-and-labelin / Typecho技巧：自定义独立页面模板实现归档、分类、标签
 
 ## 一、需求
 
